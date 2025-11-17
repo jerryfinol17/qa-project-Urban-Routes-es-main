@@ -29,8 +29,12 @@ Dependencies are listed in requirements.txt—install with pip install -r requir
 
 # If you had access (for reference):
 pip install -r requirements.txt
-pytest tests/ -v -s 
+
+pytest tests/ -v -s  
+## Verbose mode with no capture for debugging
 
 ## Demo
-Here's the video showing the tests in full swing—book a ride, add some flair, and watch the magic (and occasional chaos) unfold:Watch the E2E Tests Demo in **qa-project-Urban-Routes-es-main/Recording 2025-11-17 135624.mp4**  What's Next?This project was my gateway into E2E automation, teaching me the ropes of waits, locators, and assertions. I've come a long way since—dive into my Automated Testing Project for advanced features like Page Object Models and CI integration.Feedback welcome! Star, fork, or drop an issue if something sparks an idea. Follow my profile for more QA adventures.Hugs and happy testing! Built with  during my Tripleten QA bootcamp. Last updated: November 2025.
+Here's the video showing the tests in full swing—book a ride, add some flair, and watch the magic (and occasional chaos) unfold:Watch the E2E Tests Demo in **qa-project-Urban-Routes-es-main/Recording 2025-11-17 135624.mp4**  What's Next?This project was my gateway into E2E automation, teaching me the ropes of waits, locators, and assertions. I've come a long way since—dive into my Automated Testing Project for advanced features like Page Object Models and CI integration.Feedback welcome! Star, fork, or drop an issue if something sparks an idea. Follow my profile for more QA adventures.Hugs and happy testing!
+
+*Built with ❤️ during my Tripleten QA bootcamp. Last updated: November 2025.*. Last updated: November 2025.
 
