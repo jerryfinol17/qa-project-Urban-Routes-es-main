@@ -46,6 +46,9 @@ pages.py            211     53    75%    45-49, 62-67, 102-103, 112, 126-129,
 -----------------------------------------------
 TOTAL               273     58    ~79%
 
+
+
+```
 ## Demo
 Here's the video showing the tests in full swing—book a ride, add some flair, and watch the magic (and occasional chaos) unfold:Watch the E2E Tests Demo in **Recording 2025-11-17 135624.mp4**  What's Next?This project was my gateway into E2E automation, teaching me the ropes of waits, locators, and assertions. I've come a long way since—dive into my Automated Testing Project for advanced features like Page Object Models and CI integration.Feedback welcome! Star, fork, or drop an issue if something sparks an idea. Follow my profile for more QA adventures.Hugs and happy testing!
 
